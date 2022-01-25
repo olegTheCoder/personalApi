@@ -1,2 +1,1 @@
-Сайт задеплоен на Heroku, ссылка ниже
-https://forecastforclothes.herokuapp.com/
+You can use the link => https://forecastforclothes.herokuapp.com/
